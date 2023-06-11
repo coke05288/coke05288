@@ -14,6 +14,11 @@
 
   <br/>
   
+<img src="https://img.shields.io/badge/Microsoft Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure Function-000000?style=for-the-badge&logo=azurefunctions&logoColor=white"/>
+
+  <br/>
+  
 <img src="https://img.shields.io/badge/Python-FF8A3A?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-FF8A3A?style=for-the-badge&logo=Django&logoColor=white"/>
 
