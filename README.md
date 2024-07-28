@@ -1,31 +1,34 @@
-<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoke05288&count_bg=%23000000&title_bg=%23D92A4A&icon=letsencrypt.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coke05288)](https://solved.ac/coke05288/)  
 
-<img src="https://img.shields.io/badge/Unity-D92A4A?style=for-the-badge&logo=Unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/.Net-D92A4A?style=for-the-badge&logo=.Net&logoColor=black"/>  
-
-  <br/>
-  
-<img src="https://img.shields.io/badge/Amazon AWS-000000?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon API Gateway-000000?style=for-the-badge&logo=Amazon API Gateway&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS Lambda-000000?style=for-the-badge&logo=AWS Lambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon DynamoDB-000000?style=for-the-badge&logo=Amazon DynamoDB&logoColor=white"/>
-
-  <br/>
-  
-<img src="https://img.shields.io/badge/Microsoft Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure Function-000000?style=for-the-badge&logo=azurefunctions&logoColor=white"/>
-
-  <br/>
-  
-<img src="https://img.shields.io/badge/Python-FF8A3A?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-FF8A3A?style=for-the-badge&logo=Django&logoColor=white"/>
-
-  <br/>
-  
-
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoke05288&count_bg=%23000000&title_bg=%23D92A4A&icon=letsencrypt.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<div>
+Hi🖐️ Im Youngjun.  <br>
+Im studying to create attractive contents.  <br>
 </div>
+
+  <br>
+
+**Languages :**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+**Tools :**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+
+**Cloud :**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+
+  <br>  
+  
+📪 : coke05288@gmail.com  </br>
+🧷 : https://coke05288.github.io  </br>
+
+### Career
+
+- 2020.06 ~ : Unity AR Contents Developer, Crosslab Inc.
+- 2022.09 ~ : Master's in Media, Soongsil University.
+- 2024.07 ~ : Trainee, Gyobo DTS Cloud Architecture DX Academy
+  
