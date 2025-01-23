@@ -31,7 +31,7 @@ Im studying to create attractive contents.  <br>
 
 ### Career
 
-- 2020.06 ~ 2024.05 : Unity AR Contents Developer, Crosslab Inc.
+- 2020.06 ~ 2024.05 : Unity AR Contents Client & Spring Backend Developer, Crosslab Inc.
 - 2022.09 ~ 2025.02 : Master's in Media, Soongsil University.
 - 2024.07 ~ 2024.12 : Trainee, Gyobo DTS Cloud Architecture DX Academy
   
