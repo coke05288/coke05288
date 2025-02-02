@@ -28,7 +28,7 @@ Im studying to create attractive contents.  <br>
   
 📪 : coke05288@gmail.com  </br>
 🧷 : https://coke05288.github.io  </br>
-
+🅿️ : https://www.figma.com/deck/EgS5FZuWZ5sxreWQmlx3yo/PORTFOLIO?node-id=4061-78&t=LNwVfXV6MWK4jws0-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 ### Career
 
 - 2020.06 ~ 2024.05 : Unity AR Contents Client & Spring Backend Developer, Crosslab Inc.
