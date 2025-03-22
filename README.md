@@ -28,7 +28,7 @@ Im studying to create attractive contents.  <br>
 - 2020.06 ~ 2024.05 : Unity AR Contents Client & Spring Backend Developer, Crosslab Inc.
 - 2022.09 ~ 2025.02 : Master's in Media, Soongsil University.
 - 2024.07 ~ 2024.12 : Trainee, Gyobo DTS Cloud Architecture DX Academy
-- 2025.02 ~         : FullStack Engineer, KSIC(Korea Spatial Information & Communitaction) Co.
+- 2025.02 ~         : Web FullStack Engineer, KSIC(Korea Spatial Information & Communitaction) Co.
 
   <br>  
 
