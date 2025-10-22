@@ -6,16 +6,16 @@ Im studying to create attractive contents.  <br>
   <br>
 
 **Languages :**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 **Tools :**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 **Infra :**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
@@ -25,7 +25,8 @@ Im studying to create attractive contents.  <br>
 
 ### Career
 
-- 2025.02 ~         : Web FullStack Engineer, KSIC(Korea Spatial Information & Communitaction) Co.
+- 2025.11 ~         : Web FullStack Engineer, DOLPHIN IN CALI Co.
+- 2025.02 ~ 2025.10 : Web FullStack Engineer, KSIC(Korea Spatial Information & Communitaction) Co.
 - 2024.07 ~ 2024.12 : Trainee, Gyobo DTS Cloud Architecture DX Academy
 - 2022.09 ~ 2025.02 : Master's in Media, Soongsil University.
 - 2020.06 ~ 2024.05 : Unity AR Contents Client & Spring Backend Developer, Crosslab Inc.
