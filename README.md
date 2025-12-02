@@ -25,7 +25,7 @@ Im studying to create attractive contents.  <br>
 
 ### Career
 
-- 2025.11 ~         : Web FullStack Engineer, DOLPHIN IN CALI Co.
+- 2025.11 ~         : CTO, DOLPHIN IN CALI Co.
 - 2025.02 ~ 2025.10 : Web FullStack Engineer, KSIC(Korea Spatial Information & Communitaction) Co.
 - 2024.07 ~ 2024.12 : Trainee, Gyobo DTS Cloud Architecture DX Academy
 - 2022.09 ~ 2025.02 : Master's in Media, Soongsil University.
